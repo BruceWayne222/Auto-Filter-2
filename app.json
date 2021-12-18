@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/josprojects/tgmoviebot",
-    "repository": "https://github.com/josprojects/tgmoviebot",
+    "website": "https://github.com/BruceWayne222/Auto-Filter-2",
+    "repository": "https://github.com/BruceWayne222/Auto-Filter-2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token. Get from @BotFather.",
@@ -89,7 +89,7 @@
             "required": false
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/josprojects/tgmoviebot/issues/1",
+            "description": "choose b/w single or double buttons https://github.com/BruceWayne222/Auto-Filter-2/issues/1",
             "required": false
         },
         "P_TTI_SHOW_OFF": {
