@@ -20,11 +20,11 @@ Hit The Help Button For More Info..</b>"""
 ➥ Build Status: v1.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Info:</b>
-IMDb is a Open source project.
+
 <b>Devs:</b> <a href='https://t.me/MHSLsupport'> - Jason Todd</a>
 
-<b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+<b>CHANNEL:</b>
+- <a href='https://t.me/MovieHubSLC'>Movie Hub SLC🎬</a>
 
 <b>MAIN GROUP</b>
 - <a href='https://t.me/MovieHubSL'>Movie Hub SL🎬</a>"""
